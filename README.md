@@ -1,6 +1,6 @@
 # LittleNodes_IR_Bridge
 
-IR bridge compatible with alexa. Control's your IR devices such as a TV.
+IR bridge compatible with alexa based on the NodeMCU ESP8266 micro controller. Control your IR devices such as a TV.
 
 See the Instructable for this repository at:
 
